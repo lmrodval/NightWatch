@@ -1,0 +1,24 @@
+{
+  "name": "NightWatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmrodval/NightWatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmrodval/NightWatch/issues"
+  },
+  "homepage": "https://github.com/lmrodval/NightWatch#readme",
+  "devDependencies": {
+    "chromedriver": "^84.0.0",
+    "nightwatch": "^1.3.7"
+  }
+}
